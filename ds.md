@@ -843,7 +843,7 @@ print(distance)
 
 
 
-## 20. `predict_proba`를 사용하는 두 개의 모델과 `accuracy_score`
+## 21. `predict_proba`를 사용하는 두 개의 모델과 `accuracy_score`
 
 `predict_proba` 메소드는 분류 모델에서 각 클래스에 속할 확률을 예측하는 데 사용됩니다. 이 메소드는 입력 데이터에 대해 각 클래스에 대한 확률 분포를 반환하며, 특히 이진 분류에서 특정 임계값(보통 0.5)을 기준으로 클래스 레이블을 결정하는 데 사용됩니다.
 
